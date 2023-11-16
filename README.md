@@ -5,7 +5,6 @@ As part of the Future-Ready Talent Internship, this project not only showcases t
 Transforming Leisure into Lifestyle - KoDeal
 
 Problem Statement/ Opportunity*:
-(Please highlight the problem statement your project will solve or the opportunity area it will address)
 Entrepreneurs face challenges in finding suitable business ideas with detailed plans, hindering their ability to kickstart ventures effectively. There is a significant need for a platform like KoDeal that provides curated business ideas with comprehensive plans, helping entrepreneurs overcome the hurdles of ideation and planning.
 
 Project Description*:
